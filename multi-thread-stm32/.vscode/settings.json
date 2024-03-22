@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "internal.h": "c",
+        "stm32f0xx_hal_conf.h": "c",
+        "freertos.h": "c",
+        "modbusrtuclient.h": "c",
+        "modbusrtu.h": "c"
+    }
+}

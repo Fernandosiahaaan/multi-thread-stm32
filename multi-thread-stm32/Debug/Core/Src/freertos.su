@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:83:6:TaskSerial	16	static
+../Core/Src/freertos.c:98:6:TaskSPI	40	static
+../Core/Src/freertos.c:119:6:TaskI2C	48	static
+../Core/Src/freertos.c:133:6:TaskReadUART	32	static
+../Core/Src/freertos.c:146:6:TaskReadTimer	24	static
+../Core/Src/freertos.c:156:6:SemaphoreSenderTask	56	static
+../Core/Src/freertos.c:175:6:SemaphoreReceiverTask	32	static
+../Core/Src/freertos.c:192:6:InitFreeRTOS	16	static
