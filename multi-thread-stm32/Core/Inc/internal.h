@@ -1,0 +1,10 @@
+#ifndef __INTERNAL__
+#define __INTERNAL__
+
+#define PIN_UART USART5
+#define DELAY_ONE_SECOND 1000
+#define MAX_TASKS_EXPERIMENT 7
+#define LED_PIN GPIO_PIN_13
+#define SENSOR_TIMEOUT 1000
+#define I2C_ADDRESS 0xA0
+#endif
